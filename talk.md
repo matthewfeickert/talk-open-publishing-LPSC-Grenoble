@@ -15,14 +15,6 @@ November 26th, 2020
 
 .middle-logo[]
 
-<!-- ---
-# Abstract
-
- In the modern scientific landscape the publication of results through papers alone is often insufficient for the rapid spread and adoption of new ideas and techniques. Publication of openly available, versioned, and citable code and data products, in addition to papers, provides important reusable tooling that can significantly increase the impact of authors' work. Building on the ideas of FAIR data practices and Open is Not Enough (2018), I will highlight how these ideas and tools are enabling new physics results at the LHC and improved collaboration across physics. I will additionally explore how these open tools can be readily integrated into your scientific toolbox and argue they can be easily leveraged to improve the spread of work.
-
- - Time goal: Approximately 45 minutes + 15 minutes for questions
- - Refer to [Anja Butter's nice talk](https://lpsc-indico.in2p3.fr/event/2536/) for example -->
-
 ---
 # Collaborators
 
@@ -74,7 +66,7 @@ LPSC, Grenoble
 HEPHY ÖAW
 ]
 .kol-1-4.center[
-.circle.width-45[![Gael](https://avatars2.githubusercontent.com/u/41366386)]
+.circle.width-45[![Gael](figures/collaborators/alguero.jpg)]
 
 
 [Gaël Alguero](https://github.com/Ga0l)
@@ -125,8 +117,9 @@ Provide constraints on models through setting best limits
 .kol-1-2[
 <br>
 - Making data products open is a great first start, but .bold[not enough]!
-- Experiments are complex and code and workflows are complicated
 - If just the code and data were made public, would be .bold[largely useless] to anyone but the authors
+   - Millions of lines in codebases, hundreds of TB of data
+- Experiments are complex and code and workflows are complicated
 - For data products to be useful they  need to be able to be .bold[understood] and used by the scientific community
    - Relationship of the data and the analysis needs to be made clear/available as well
 ]
