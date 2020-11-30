@@ -1,5 +1,7 @@
 # [Modern Tools for Reusable Publications and Data Products](https://lpsc-indico.in2p3.fr/event/2585/)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4292217.svg)](https://doi.org/10.5281/zenodo.4292217)
+
 Talk given at the [LPSC Grenoble colloquium](https://lpsc-indico.in2p3.fr/event/2585/) focusing on Zenodo
 
 Viewable online [here](https://matthewfeickert.github.io/talk-open-publishing-LPSC-Grenoble/index.html)
